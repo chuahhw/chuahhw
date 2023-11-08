@@ -1,9 +1,11 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fcomputer-programming-word-concepts-banner-coding-and-computer-science-software-and-app-development-presentation-isolated-lettering-typography-idea-image337605677.html&psig=AOvVaw0XhvuaFm4HqJExVUb59qWW&ust=1699528910849000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCLjar9qktIIDFQAAAAAdAAAAABAE)
+![Masterhead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Chuah Hui Wen</h1>
 <h3 align="center">A first year student that studies Bachelor of Computer Science (Software Engineering) in University Technology Malaysia</h3>
-<img align="right" width="400" src="https://drive.google.com/file/d/1tVwBFqmPkHOJDjqFUdaXyn19Fz2aoVj9/view?usp=sharing">
+<img align="right" width="400" height="400" src="https://scontent-kul2-1.xx.fbcdn.net/v/t39.30808-6/395386924_122134846046027345_3844456851675173760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4FLK8memC4UAX8njb--&_nc_ht=scontent-kul2-1.xx&oh=00_AfCHrr2rZkDkOTPQ7Fn4czESxnvupvkpnuM4RNx2ZLJNqQ&oe=655107D3">
 
-- 🔭 Education: **[2017-2021] Penang Chinese Girls High School, [2022-NOW] University Technology Malaysia**
+- 🔭 Education: **[2017-2021] Penang Chinese Girls High School, [2022-2027] University Technology Malaysia**
+
+- 🤝 Courses: Bachelor of Computer Science (Software Engineering)
 
 - 🌱 I’m currently learning **Flutter, Firebase, React**
 
