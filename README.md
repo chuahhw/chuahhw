@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hui Wen</h1>
-<h3 align="center">A first year student that study Bachelor of Computer Science (Software Engineering) in University Technology Malaysia</h3>
+<h3 align="center">A first year student that studies Bachelor of Computer Science (Software Engineering) in University Technology Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuahhw&label=Profile%20views&color=0e75b6&style=flat" alt="chuahhw" /> </p>
 
