@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I am a first year student studying Bachelor of Computer Science (Software Engineering) in University Technology Malaysia.
+I am Hui Wen, I am a first year student studying Bachelor of Computer Science (Software Engineering) in University Technology Malaysia.
 <!--
 **chuahhw/chuahhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
