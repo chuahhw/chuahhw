@@ -20,7 +20,7 @@
 
 🥳 Awards:
 <a href="https://drive.google.com/file/d/1AuX41cJBf-IB5QUcHlQ2p-QXXYTrtAsb/view?usp=sharing" style="color:black">Bronze medal in Beaver Computational Thinking competition 2019</a>
-<a href= style="color:black>Bronze medal in PPKOMP programming competition 2021</a>
+<a href="https://drive.google.com/file/d/1YNcy8w-UruWYyioTYmP98o6IKppOHbiT/view?usp=sharing" style="color:black>Bronze medal in PPKOMP programming competition 2021</a>
 
 ⚡ Fun fact **I hate bugs.**
 
