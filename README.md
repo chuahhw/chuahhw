@@ -4,7 +4,11 @@
 <h3 align="center">A first year student that studies Bachelor of Computer Science (Software Engineering) in University Technology Malaysia</h3>
 <img align="right" width="400" height="400" src="https://scontent-kul2-1.xx.fbcdn.net/v/t39.30808-6/395386924_122134846046027345_3844456851675173760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4FLK8memC4UAX8njb--&_nc_ht=scontent-kul2-1.xx&oh=00_AfCHrr2rZkDkOTPQ7Fn4czESxnvupvkpnuM4RNx2ZLJNqQ&oe=655107D3">
 
-- 🔭 Education: **[2017-2021] Penang Chinese Girls High School, [2022-2027] University Technology Malaysia**
+- 🔭 Education:
+- [2011-2016] UPSR, SJK(C)Kwang Hwa, Penang, Malaysia
+- [2017-2021] SPM, Penang Chinese Girls High School, Penang, Malaysia
+- [2022-2023] Foundation, University Technology Malaysia, Johor, Malaysia
+- [2023-2027] Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia
 
 - 🤝 Courses: Bachelor of Computer Science (Software Engineering)
 
