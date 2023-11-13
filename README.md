@@ -21,7 +21,9 @@
 - HTML, CSS, Java, Javascript, PHP, Sql, C++, React
 
 🥳 Awards:
+
 <a href="https://drive.google.com/file/d/1AuX41cJBf-IB5QUcHlQ2p-QXXYTrtAsb/view?usp=sharing" style="font-color=black">Bronze medal in Beaver Computational Thinking competition 2019</a>, 
+
 <a href="https://drive.google.com/file/d/1YNcy8w-UruWYyioTYmP98o6IKppOHbiT/view?usp=sharing" style="font-color=black"> Bronze medal in PPKOMP programming competition 2021</a>
 
 ⚡ Fun fact **I hate bugs.**
