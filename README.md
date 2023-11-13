@@ -4,6 +4,9 @@
 <h3 align="center">A first year student that studies Bachelor of Computer Science (Software Engineering) in University Technology Malaysia</h3>
 <img align="right" width="400" height="400" src="https://scontent-kul2-1.xx.fbcdn.net/v/t39.30808-6/395386924_122134846046027345_3844456851675173760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4FLK8memC4UAX8njb--&_nc_ht=scontent-kul2-1.xx&oh=00_AfCHrr2rZkDkOTPQ7Fn4czESxnvupvkpnuM4RNx2ZLJNqQ&oe=655107D3">
 
+📫 Email: **chwen0912@gmail.com**
+👩🏻‍💻 Hometown: **Penang, Malaysia**
+
 🔭 Education:
 - [2011-2016] UPSR, SJK(C)Kwang Hwa, Penang, Malaysia
 - [2017-2021] SPM, Penang Chinese Girls High School, Penang, Malaysia
@@ -12,12 +15,14 @@
 
 🤝 Courses: Bachelor of Computer Science (Software Engineering)
 
-🌱Skills 
+🌱 Skills 
 - HTML, CSS, Java, Javascript, PHP, Sql, C++, React
 
-- 📫 Email: **chwen0912@gmail.com**
+🥳 Awards:
+- <a href= style="color:black">Bronze medal in Beaver Computational Thinking competition 2019</a>
+- <a href= style="color:black>Bronze medal in PPKOMP programming competition 2021</a>
 
-- ⚡ Fun fact **I hate bugs.**
+⚡ Fun fact **I hate bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
