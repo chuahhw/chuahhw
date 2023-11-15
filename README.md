@@ -1,6 +1,7 @@
 ![Masterhead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="left">Profile</h1>
-<h2 align="center">Hi 👋, I'm Chuah Hui Wen</h1>
+<h2 align="center">Hi 👋, I'm Chuah Hui Wen</h2>
+<h2 align="center">A first year student studying software engineering degree in UTM.</h1>
 <img align="right" width="400" height="400" src="https://scontent-kul2-1.xx.fbcdn.net/v/t39.30808-6/395386924_122134846046027345_3844456851675173760_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4FLK8memC4UAX8njb--&_nc_ht=scontent-kul2-1.xx&oh=00_AfCHrr2rZkDkOTPQ7Fn4czESxnvupvkpnuM4RNx2ZLJNqQ&oe=655107D3">
 
 📫 Email: **chwen0912@gmail.com**
