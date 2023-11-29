@@ -2,13 +2,14 @@
 <h1 align="left">Profile</h1>
 <h2 align="center">Hi 👋, I'm Chuah Hui Wen</h2>
 <h3 align="center">A first year student studying software engineering degree in UTM. Passionate in coding and loves eating. </h3>
-<img align="right" width="400" height="400" src="20231016_100037](https://github.com/chuahhw/chuahhw/assets/147809633/bcc1ee52-911b-41b5-87dd-9318b2c45896">
+<img align="right" width="200" height="200" src="https://github.com/chuahhw/chuahhw/assets/147809633/67fcc352-8781-4ce6-b1cc-6a73ae437155">
 
 📫 Email: **chwen0912@gmail.com**
 
 👩🏻‍💻 Hometown: **Penang, Malaysia**
 
 🔭 Education:
+
 - [2011-2016] UPSR, SJK(C)Kwang Hwa, Penang, Malaysia
 - [2017-2021] SPM, Penang Chinese Girls High School, Penang, Malaysia
 - [2022-2023] Foundation, University Technology Malaysia, Johor, Malaysia
