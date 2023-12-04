@@ -26,8 +26,6 @@
 
 <a href="https://drive.google.com/file/d/1qCJZNPp9vGcwJ9ebRHEhkepwHMT1oPe3/view?usp=sharing" style="font-color=black"> Bronze medal in PPKOMP programming competition 2021</a>
 
-⚡ Fun fact **I hate bugs.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/chuahhw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuahhw_" height="30" width="40" /></a>
