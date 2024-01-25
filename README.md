@@ -3,9 +3,13 @@
 <h2 align="center">Hi 👋, I'm Chuah Hui Wen</h2>
 <img align="right" width="150" height="200" src="https://github.com/chuahhw/chuahhw/assets/147809633/67fcc352-8781-4ce6-b1cc-6a73ae437155">
 
+Summary: 
+
 📫 Email: **chwen0912@gmail.com**
 
 👩🏻‍💻 Hometown: **Penang, Malaysia**
+
+Core:
 
 🔭 Education:
 
@@ -14,13 +18,20 @@
 - [2022-2023] Foundation, University Technology Malaysia, Johor, Malaysia
 - [2023-2027] Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia
 
-🤝 Courses: 
-- Bachelor of Computer Science (Software Engineering)
+🤝 Position: 
+- Core member of Web Development of Google Developer Student Club UTM
 
 🌱 Skills 
 - HTML, CSS, Java, Javascript, PHP, Sql, C++, React
 
-🥳 Awards:
+Course: 
+- Bachelor of Computer Science (Software Engineering)
+
+Certificate:
+<a href="[Cert.pdf](https://github.com/chuahhw/chuahhw/files/14053009/Cert.pdf)
+"> Certificate of Participation of Physic Competition </a>
+
+🥳 Honours and Awards:
 
 <a href="https://drive.google.com/file/d/1AuX41cJBf-IB5QUcHlQ2p-QXXYTrtAsb/view?usp=sharing" style="font-color=black">Bronze medal in Beaver Computational Thinking competition 2019</a>, 
 
