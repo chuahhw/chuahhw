@@ -28,8 +28,8 @@ Course:
 - Bachelor of Computer Science (Software Engineering)
 
 Certificate:
-<a href="[Cert.pdf](https://github.com/chuahhw/chuahhw/files/14053009/Cert.pdf)
-"> Certificate of Participation of Physic Competition </a>
+
+<a href="https://github.com/chuahhw/chuahhw/files/14053009/Cert.pdf"> Certificate of Participation of Physic Competition </a>
 
 🥳 Honours and Awards:
 
