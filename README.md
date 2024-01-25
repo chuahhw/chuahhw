@@ -29,7 +29,7 @@ Course:
 
 Certificate:
 
-<a href="https://github.com/chuahhw/chuahhw/files/14053009/Cert.pdf"> Certificate of Participation of Physic Competition </a>
+<a href="https://drive.google.com/file/d/1VkkIEFFnoKuX3_vyB-JaILKGOre4hDMD/view?usp=sharing"> Certificate of Participation of Physic Competition </a>
 
 🥳 Honours and Awards:
 
