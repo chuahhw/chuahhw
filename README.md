@@ -4,6 +4,7 @@
 <img align="right" width="150" height="200" src="https://github.com/chuahhw/chuahhw/assets/147809633/67fcc352-8781-4ce6-b1cc-6a73ae437155">
 
 Summary: 
+
 Hi, I am Chuah Hui Wen, you can call me Chuah. I am a first year student studying Bachelor of Computer Science (Software Engineering) in University Technology Malaysia, Johor, Malaysia. I am from Penang, Malaysia.
 
 📫 Email: **chwen0912@gmail.com**
