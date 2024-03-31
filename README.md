@@ -2,14 +2,7 @@
 <h1 align="left">Profile</h1>
 <h2 align="center">Hi 👋, I'm Chuah Hui Wen</h2>
 
-
-Summary: 
-
-Hi, I am Chuah Hui Wen, you can call me Chuah. I am a first year student studying Bachelor of Computer Science (Software Engineering) in University Technology Malaysia, Johor, Malaysia. I am from Penang, Malaysia.
-
 📫 Email: **chwen0912@gmail.com**
-
-Core:
 
 🔭 Education:
 
@@ -23,19 +16,6 @@ Core:
 
 🌱 Skills 
 - HTML, CSS, Java, Javascript, PHP, Sql, C++, React
-
-Course: 
-- Bachelor of Computer Science (Software Engineering)
-
-👩🏻‍💻 Certificate:
-
-<a href="https://drive.google.com/file/d/1VkkIEFFnoKuX3_vyB-JaILKGOre4hDMD/view?usp=sharing"> Certificate of Participation of Physic Competition </a>
-
-🥳 Honours and Awards:
-
-<a href="https://drive.google.com/file/d/1AuX41cJBf-IB5QUcHlQ2p-QXXYTrtAsb/view?usp=sharing" style="font-color=black">Bronze medal in Beaver Computational Thinking competition 2019</a>, 
-
-<a href="https://drive.google.com/file/d/1qCJZNPp9vGcwJ9ebRHEhkepwHMT1oPe3/view?usp=sharing" style="font-color=black"> Bronze medal in PPKOMP programming competition 2021</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
