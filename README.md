@@ -11,9 +11,6 @@
 - [2022-2023] Foundation, University Technology Malaysia, Johor, Malaysia
 - [2023-2027] Bachelor of Computer Science (Software Engineering), University Technology Malaysia, Johor, Malaysia
 
-🤝 Position: 
-- Core member of Web Development of Google Developer Student Club UTM
-
 🌱 Skills 
 - HTML, CSS, Java, Javascript, PHP, Sql, C++, React
 
