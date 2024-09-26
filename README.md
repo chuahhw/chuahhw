@@ -26,3 +26,7 @@
 <p><a href="https://github.com/chuahhw/TIS" style="font-size=100px " > SECP1513 TECHNOLOGY AND INFORMATION SYSTEM</a></p>
 
 <p><a href="https://github.com/chuahhw/Project1_SAD_20232024" style="font-size=100px " > SECD2613 SYSTEM ANALYSIS AND DESIGN</a></p>
+
+<h1>Projects</h1>
+<p><a href=> Bahasa Melayu Quiz System Website</p>
+<p><a href=> Book Recommendation System</p>
