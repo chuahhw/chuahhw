@@ -1,4 +1,5 @@
-![Masterhead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
+![AI-Software-Engineering_1400x788-1024x576](https://github.com/user-attachments/assets/a019b62a-90c6-42b1-94f5-a2cf4d564ce1)
+
 <h1 align="left">Profile</h1>
 <h2 align="center">Hi 👋, I'm Chuah Hui Wen</h2>
 
