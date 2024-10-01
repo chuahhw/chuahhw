@@ -39,5 +39,11 @@
 <tr>
   <td>Bahasa Melayu Quiz System Website</td>
   <td><a href="https://github.com/chuahhw/sistemkuiz"> https://github.com/chuahhw/sistemkuiz</a></td>
-  <td> `HTML </td>
-<p><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/bc354789eae3d9341e85d4f772e10d050d70acd8/Submission/sec08_23242/Bookworm"> Book Recommendation System</p>
+  <td> HTML, CSS, JavaScript, PHP, SQL </td>
+</tr>
+<tr>
+  <td>Book Recommendation System</td>
+  <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/bc354789eae3d9341e85d4f772e10d050d70acd8/Submission/sec08_23242/Bookworm">https://github.com/jjn7702/SECJ1023-PT2/tree/bc354789eae3d9341e85d4f772e10d050d70acd8/Submission/sec08_23242/Bookworm </a></td>
+  <td>C++</td>
+</tr>
+
