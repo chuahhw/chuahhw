@@ -15,7 +15,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 :star2: Connect with me:
 <p align="left">
 
-<a href="https://instagram.com/chuahhw_" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7fc33d5c-9e6e-4565-98d1-c041f4ce40f5" height=50 width=50 alt="chuahhw_"/></a>
+<a href="https://instagram.com/chuahhw_" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7fc33d5c-9e6e-4565-98d1-c041f4ce40f5" height=48 width=48 alt="chuahhw_"/></a>
 <a href="https://www.linkedin.com/in/chuah-hui-wen-b12803215/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/47eb0b07-3445-4803-8870-bb0b711d2e16" height=50 width=50 alt="chuahhw_" /></a>
 </p>
 
