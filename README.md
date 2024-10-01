@@ -55,7 +55,7 @@
   <tr>
     <td>Services & Tools</td>
     <td>
-      <img height=20 width=50 src="https://github.com/user-attachments/assets/a34575d8-8cf9-42dc-bd2a-8e8534095476">
+      <img height=40 width=100 src="https://github.com/user-attachments/assets/a34575d8-8cf9-42dc-bd2a-8e8534095476">
       <img src="https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
     </td>
   </tr>
