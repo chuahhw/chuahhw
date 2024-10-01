@@ -8,14 +8,15 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 
 :tophat: Positions:
 <p>
-[2023] Core Member of Development Team of Google Developer Student Club Universiti Teknologi Malaysia
+[2023] Core Member of Development Team of Google Developer Student Club University Technology Malaysia
 </p>
 
 
 :star2: Connect with me:
+
 <p align="left">
-<a href="https://instagram.com/chuahhw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chuahhw_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chuah-hui-wen-b12803215/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ad70dc28-634c-4e1b-aecf-3ca76bb0347f" alt="chuahhw_" height="30" width="40" /></a>
+<a href="https://instagram.com/chuahhw_" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d949b2bd-6996-41f5-9943-96dc5569dc97" alt="chuahhw_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chuah-hui-wen-b12803215/" target="blank"><img align="center" src="[https://github.com/user-attachments/assets/ad70dc28-634c-4e1b-aecf-3ca76bb0347f](https://github.com/user-attachments/assets/6157571d-145f-4ece-9dea-3105efdcf6cb)" alt="chuahhw_" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Skills</h3>
