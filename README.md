@@ -1,4 +1,5 @@
-![cover-and-banner-of-working-desk-with-gadget-top-view-of-table-working-and-free-space-for-text-with-computer-laptop-notebook-coffee-cup-phone-and-paper-vector (1)](https://github.com/user-attachments/assets/77c3a9dc-926d-40c3-b860-53b9b6bd247b)
+![1726555236517](https://github.com/user-attachments/assets/c89e5860-4706-494e-8706-0f1ca482c3b1)
+
 
 <h1 align="left">Profile</h1>
 
