@@ -1,4 +1,5 @@
-![AI-Software-Engineering_1400x788-1024x576](https://github.com/user-attachments/assets/a019b62a-90c6-42b1-94f5-a2cf4d564ce1)
+
+![1726555236517](https://github.com/user-attachments/assets/c172c4e8-d02f-48a1-8602-075dce520732)
 
 <h1 align="left">Profile</h1>
 
