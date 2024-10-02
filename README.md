@@ -10,7 +10,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 
 :tophat: Positions:
 <p>
-[2023] Core Member of Development Team of Google Developer Student Club University Technology Malaysia
+[2023] Core Member of Development Department of Google Developer Student Club University Technology Malaysia
 </p>
 
 
