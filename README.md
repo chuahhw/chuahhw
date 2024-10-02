@@ -99,7 +99,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 </tr>
 <tr>
   <td>MyBantuan Legal App</td>
-  <td><a href=""> view </a> </td>
+  <td><a href="https://github.com/chuahhw/MyBantuan"> view </a> </td>
   <td>Figma</td>
 </tr>
 </table>
