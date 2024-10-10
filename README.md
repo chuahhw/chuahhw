@@ -80,28 +80,11 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 </table>
 
 
-<h1>Projects</h1>
-<table>
-<tr>
-  <td>Projects</td>
-  <td>Repository</td>
-  <td>Tech Stack & Tools</td>
-</tr>
-<tr>
-  <td>Bahasa Melayu Quiz System Website</td>
-  <td><a href="https://github.com/chuahhw/sistemkuiz"> view </a></td>
-  <td> HTML, CSS, JavaScript, PHP, SQL </td>
-</tr>
-<tr>
-  <td>Book Recommendation System</td>
-  <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/bc354789eae3d9341e85d4f772e10d050d70acd8/Submission/sec08_23242/Bookworm"> view </a></td>
-  <td>C++</td>
-</tr>
-<tr>
-  <td>MyBantuan Legal App</td>
-  <td><a href="https://github.com/chuahhw/MyBantuan"> view </a> </td>
-  <td>Figma</td>
-</tr>
-</table>
+
+
+
+
+
+
 
 
