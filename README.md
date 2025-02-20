@@ -89,6 +89,11 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <td>Figma</td>
     <td><a href="https://github.com/chuahhw/MyBantuan">https://github.com/chuahhw/MyBantuan</a></td>
   </tr>
+  <tr>
+    <td>Book Recommendation System</td>
+    <td>C++</td>
+    <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm">https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm</a></td>
+  </tr>
 </table>
 
 
