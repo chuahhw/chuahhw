@@ -77,6 +77,12 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   <tr> 
     <td>Project Name</td>
     <td>Stack used</td>
+    <td>Repository</td>
+  </tr>
+  <tr>
+    <td>Bahasa Melayu Quiz System</td>
+    <td>SQL, Javascript, PHP</td>
+    <a href="">
   </tr>
 </table>
 
