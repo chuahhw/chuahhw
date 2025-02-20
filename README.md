@@ -82,7 +82,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   <tr>
     <td>Bahasa Melayu Quiz System</td>
     <td>SQL, Javascript, PHP</td>
-    <a href="https://github.com/chuahhw/sistemkuiz">https://github.com/chuahhw/sistemkuiz</a>
+    <td><a href="https://github.com/chuahhw/sistemkuiz">https://github.com/chuahhw/sistemkuiz</a></td>
   </tr>
 </table>
 
