@@ -72,7 +72,13 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   </tr>
 </table>
 
-
+<h1 align="left">Projects</h3>
+<table>
+  <tr> 
+    <td>Project Name</td>
+    <td>Stack used</td>
+  </tr>
+</table>
 
 
 
