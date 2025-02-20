@@ -87,7 +87,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   <tr>
     <td>MyBantuan Legal Aid Application</td>
     <td>Figma</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/chuahhw/MyBantuan">https://github.com/chuahhw/MyBantuan</a></td>
   </tr>
 </table>
 
