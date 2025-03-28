@@ -106,7 +106,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   <tr>
     <td>Bus Booking System</td>
     <td><img src="https://camo.githubusercontent.com/4804cde16e9487428ea27793df49b0ada0166115301325bade5532ae7060ed04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"></td>
-  <td><a href="https://github.com/chuahhw/BusFlexBusBookingSystem">https://github.com/chuahhw/BusFlexBusBookingSystem</a> <u>View</td>
+  <td><a href="https://github.com/chuahhw/BusFlexBusBookingSystem"><u>View</u></a></td>
 </table>
 
 
