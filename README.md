@@ -90,18 +90,18 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://camo.githubusercontent.com/4804cde16e9487428ea27793df49b0ada0166115301325bade5532ae7060ed04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
     </td>
-    <td><a href="https://github.com/chuahhw/sistemkuiz">https://github.com/chuahhw/sistemkuiz</a></td>
+    <td><a href="https://github.com/chuahhw/sistemkuiz"><u>View</u></a></td>
   </tr>
   <tr>
     <td>MyBantuan Legal Aid Application</td>
     <td><img src="https://camo.githubusercontent.com/8a61ef97622df78c36d2ac0c400be9d154e0a756137e6752117de9bc1a78660a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465"></td>
-    <td><a href="https://github.com/chuahhw/MyBantuan">https://github.com/chuahhw/MyBantuan</a></td>
+    <td><a href="https://github.com/chuahhw/MyBantuan"><u>View</u></a></td>
   </tr>
   <tr>
     <td>Book Recommendation System</td>
     <td>
       <img src="https://camo.githubusercontent.com/f139e7edf0319db6f16a48314a4b5a717c8f74ba336f049817d1b92795d1c070/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"></td>
-    <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm">https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm</a></td>
+    <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm"><u>View</u></a></td>
   </tr>
   <tr>
     <td>Bus Booking System</td>
