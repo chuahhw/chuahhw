@@ -75,7 +75,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
 <table>
   <tr> 
     <td>Project Name</td>
-    <td>Stack used</td>
+    <td>Tech Stack & Tools</td>
     <td>Repository</td>
   </tr>
   <tr>
