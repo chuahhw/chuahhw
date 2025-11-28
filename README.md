@@ -6,16 +6,6 @@
 
 Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionate about developing efficient and innovative solutions, I enjoy working on projects that enhance my skills and contribute to meaningful advancements in technology. 
 
-📫 Email: **chwen0912@gmail.com**
-
-:tophat: Positions:
-<p>
-[2023 - 2024] Core Member of Development Department of Google Developer Student Club University Technology Malaysia
-  
-[2024 - 2025] Secretary of Google Developer Group University Technology Malaysia
-</p>
-
-
 <h1 align="left">Skills</h3>
 <table>
   <tr>
