@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/419f99b5-d9bd-4073-b184-abd00a54e451" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eb315c7-35ba-4fe8-9514-7b1e4c298710" />
 ![Black and White Simple Motivational Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/ce193929-0b97-4608-ab8e-75e316889ed2)
 
 
