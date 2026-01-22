@@ -43,6 +43,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
       <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
     </td>
   </tr>
   <tr>
@@ -116,6 +117,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <td>
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
     </td>
     </td>
     <td><a href=""><u>View</u></td>
