@@ -120,7 +120,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
       <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
     </td>
     </td>
-    <td><a href=""><u>View</u></td>
+    <td><a href="https://github.com/AStanveer/DevCrafters"><u>View</u></td>
   </tr>
 </table>
 
