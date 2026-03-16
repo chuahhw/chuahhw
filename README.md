@@ -1,4 +1,4 @@
-![Black and White Simple Motivational Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/ce193929-0b97-4608-ab8e-75e316889ed2)
+
 
 
 <h1 align="left">Profile</h1>
