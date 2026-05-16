@@ -101,6 +101,15 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <td><a href="https://github.com/Ramimoha1/e-commerce-system"><u>View</u></td>
   </tr>
   <tr>
+    <td>MindBridge: Spring Boot Mental Health Web App</td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
+    </td>
+    <td><a href="https://github.com/chuahhw/MindBridge"><u>View</u></td>
+  </tr>
+  <tr>
     <td>Pillora Smart Medicine Management And Reminder App</td>
     <td>
       <img src="https://img.shields.io/badge/OCR-4c8eda?style=for-the-badge&logo=files&logoColor=white">
