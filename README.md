@@ -96,8 +96,8 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
   <tr>
     <td>Pillora Smart Medicine Management And Reminder App</td>
     <td>
-      <img src="https://img.shields.io/badge/OCR-enabled-4c8eda">
-      <img src="https://img.shields.io/badge/Google%20Maps-API-34a853?logo=googlemaps&logoColor=white">
+      <img src="https://img.shields.io/badge/OCR-4c8eda?style=for-the-badge&logo=files&logoColor=white">
+      <img src="https://img.shields.io/badge/Google%20Maps-34a853?style=for-the-badge&logo=googlemaps&logoColor=white">
       <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
       <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff">
       <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
@@ -126,7 +126,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
         <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
-        <img src="https://img.shields.io/badge/Google%20Vision-API-4285f4?logo=googlecloud&logoColor=white">
+        <img src="https://img.shields.io/badge/Google%20Vision-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white">
       </td>
       <td><a href="https://github.com/AStanveer/lostlink"><u>View</u></td>
   </tr>
