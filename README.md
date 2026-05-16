@@ -129,6 +129,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
       <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+      ![UiPath](https://img.shields.io/badge/UiPath-RPA-FA4616?style=for-the-badge)
     </td>
     <td><a href="https://github.com/chuahhw/DHL-KB-SYSTEM"><u>View</u></td>
   </tr>
