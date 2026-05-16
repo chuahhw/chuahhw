@@ -73,18 +73,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <td>MyBantuan Legal Aid Application</td>
     <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
     <td><a href="https://github.com/chuahhw/MyBantuan"><u>View</u></a></td>
-  </tr>
-  <tr>
-    <td>Book Recommendation System</td>
-    <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
-    <td><a href="https://github.com/jjn7702/SECJ1023-PT2/tree/main/Submission/sec08_23242/Bookworm"><u>View</u></a></td>
-  </tr>
-  <tr>
-    <td>Bus Booking System</td>
-    <td> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
-  <td><a href="https://github.com/chuahhw/BusFlexBusBookingSystem"><u>View</u></a></td>
-  </tr>
+  </tr>  
   <tr>
     <td>Portfolio website</td>
     <td>
