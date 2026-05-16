@@ -68,12 +68,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </td>
     <td><a href="https://github.com/chuahhw/sistemkuiz"><u>View</u></a></td>
-  </tr>
-  <tr>
-    <td>MyBantuan Legal Aid Application</td>
-    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></td>
-    <td><a href="https://github.com/chuahhw/MyBantuan"><u>View</u></a></td>
-  </tr>  
+  </tr> 
   <tr>
     <td>Portfolio website</td>
     <td>
