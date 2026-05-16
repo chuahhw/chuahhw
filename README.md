@@ -1,4 +1,4 @@
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c87354d-b3c6-42fa-817c-be50c867d7cb" />
 
 
 <h1 align="left">Profile</h1>
@@ -123,7 +123,7 @@ Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionat
     <td><a href="https://github.com/AStanveer/DevCrafters"><u>View</u></td>
   </tr>
   <tr>
-    <td>DHL Challenge 3.0: DHL Knowledge Hub</td>
+    <td>DHL Challenge 3.0: DHL AI-Powered Knowledge Base System</td>
     <td></td>
     <td><a href="https://github.com/chuahhw/DHL-KB-SYSTEM"><u>View</u></td>
   </tr>
