@@ -1,6 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c87354d-b3c6-42fa-817c-be50c867d7cb" />
-
-
 <h1 align="left">Profile</h1>
 
 Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionate about developing efficient and innovative solutions, I enjoy working on projects that enhance my skills and contribute to meaningful advancements in technology. 
