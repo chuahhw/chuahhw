@@ -1,6 +1,6 @@
 <h1 align="left">Profile</h1>
 
-Hi 👋, I'm Chuah Hui Wen. I am a software engineering student who is passionate about developing efficient and innovative solutions, I enjoy working on projects that enhance my skills and contribute to meaningful advancements in technology. 
+I am a Software Engineering student passionate about building AI-driven, human-centered systems that solve real problems — from healthcare to career development. I enjoy working on projects that push my technical skills further and create meaningful impact, whether through clinical decision-support tools, career-readiness platforms, or community-driven initiatives. Let's connect and explore opportunities in software development, full-stack engineering, and applied machine learning.
 
 <h1 align="left">Skills</h3>
 <table>
